@@ -1,0 +1,139 @@
+.nav-link, .navbar-brand {
+    margin-right: 30px;
+    color: white !important;
+    text-shadow: 1px 1px 1px;
+}
+
+.nav-link:hover {
+    border-bottom: 3px solid #0B63DC;
+    width: 50%;
+}
+
+.jumbotron {
+    background-image: url(image/salon4.jpg);
+    background-size: cover;
+    height: 500px;
+    margin-top: -75px;
+}
+
+.jumbotron .display-4 {
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+    font-weight: 200;
+    text-shadow: 1px 1px 1px;
+}
+
+.jumbotron .display-4 span {
+    font-weight: 500;
+}
+
+.info-1 {
+    background-color:white;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 1px;
+    margin-top: -100px;
+}
+
+.info-1 img {
+    width:  80px;
+    height: 80px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.info-1 h4 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top:  5px;
+}
+
+.info-1 p {
+    font-size: 14px;
+    color: #ACACAC;
+    margin-top: -5px;
+    font-weight: 200;
+}
+
+.content1 {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.content1 img {
+    width:  400px;
+    height: 200px;
+}
+
+.content1 h3 {
+    font-size: 50px;
+    font-weight: 200;
+    margin-top: 30px;
+}
+
+.content1 h3 span {
+    font-weight: 500;
+}
+
+.content1 p {
+    font-size: 18px;
+    color: #ACACAC;
+}
+
+.content2 {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.content2 img {
+    width:  400px;
+    height: 200px;
+}
+
+.content2 h3 {
+    font-size: 50px;
+    font-weight: 200;
+    margin-top: 30px;
+}
+
+.content2 h3 span {
+    font-weight: 500;
+}
+
+.content2 p {
+    font-size: 18px;
+    color: #ACACAC;
+}
+
+.motto {
+    margin-top: 100px;
+}
+
+.motto h5 {
+    text-align: center;
+    font-weight: 200;
+    font-size: 30px;
+}
+
+.motto figure img {
+    width: 100px;
+    margin-top: 20px;
+}
+
+.motto figure h5 {
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    color:rgba(0, 0, 0, 0.5)
+}
+
+.motto figure span {
+    font-size: 12px;
+    color: #ACACAC;
+}
+.motto figcaption {
+    text-align: center;
+}
+
+.footer {
+    margin-top: 100px;
+}
